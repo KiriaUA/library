@@ -1,0 +1,9 @@
+body{
+    max-width: 1120px;
+    margin: 0 auto;
+}
+
+#searchLetters li{
+    display: inline-block;
+    margin: 5px;
+}
